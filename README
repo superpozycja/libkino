@@ -1,0 +1,9 @@
+                              libkino.com sources
+
+this repository contains the libkino.com source code. i have written this site
+in go with its stdlib's template engine with (very little) tailwind and htmx
+mixed in.
+
+could i have written this with normal, honest to god, church-attending
+web2.0 html+css? absolutely. but the way it is now is future-proof if it
+(doubtfully) ever blows up and we need to implement some more complex functions.
